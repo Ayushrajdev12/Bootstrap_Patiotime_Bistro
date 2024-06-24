@@ -1,0 +1,288 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 600px;
+    width: 100%;
+    background-image: url(../image/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+
+.head1 {
+    display: flex;
+    justify-content: flex-start;
+    padding: 50px;
+}
+
+.head1 a {
+    margin: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.head1 img {
+    margin-left: 10%;
+}
+
+.social {
+    margin-left: 5%;
+    padding: 20px;
+    word-spacing: 30px;
+    font-size: 20px;
+}
+
+.container {
+    text-align: center;
+    padding: 60px;
+    color: white;
+    font-weight: bold;
+}
+
+.container h1 {
+    color: yellow;
+    font-size: 40px;
+}
+
+.container p {
+    font-size: 50px;
+}
+
+.container .para1 {
+    font-size: 19px;
+}
+
+.about {
+    background-color: black;
+}
+
+.about1 {
+    text-align: center;
+    color: white;
+}
+
+.about1 .abc {
+    color: yellow;
+}
+
+.about1 h2 {
+    padding: 10px;
+}
+
+.about .abcd {
+    color: yellow;
+}
+
+.img1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img1 img {
+    height: 500px;
+}
+
+.img1 h2 {
+    margin-top: 40%;
+}
+
+.img1 p {
+    font-family: 'Courier New', Courier, monospace;
+    width: 400px;
+}
+
+.content1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+.content1 .reg {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.content1 .med {
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.subabout1 {
+    margin: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.sub1 {
+    color: white;
+}
+
+.sub1 h3 {
+    font-size: 25px;
+    color: gold;
+}
+
+.sub1 p {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card1 {
+   margin: 25px;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.card2 {
+     margin: 25px;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+}
+.card-title{
+    display: flex;
+    justify-content: space-between;
+}
+.card-text{
+    width: 300px;
+}
+.full1 {
+    text-align: center;
+}
+
+.full1 h4 {
+    color: yellow;
+}
+
+.full1 p {
+    font-size: 50px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.start3 {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.start4 {
+    margin-left: 50px;
+}
+
+.btn2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btn1 {
+    padding: 10px;
+    background-color: orangered;
+}
+
+.btn3 {
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+video {
+    height: 400px;
+    width: 100%;
+}
+
+.btn4 {
+    color: white;
+    background-color: orangered;
+    margin: 20px;
+    padding: 10px;
+}
+
+.img2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img2 h2 {
+    margin-top: 20%;
+    color: yellow;
+    font-size: 25px;
+}
+
+.img2 p {
+    font-family: 'Courier New', Courier, monospace;
+    width: 400px;
+}
+
+.img2 .para2 {
+    width: 400px;
+    font-size: 40px;
+}
+
+.img2 img {
+    height: 500px;
+    width: 400px;
+}
+
+.img3 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img3 h2 {
+    margin-top: 10%;
+    color: yellow;
+    font-size: 25px;
+}
+
+.img3 p {
+    font-family: 'Courier New', Courier, monospace;
+    width: 400px;
+}
+
+.img3 .para2 {
+    width: 400px;
+    font-size: 40px;
+}
+
+.img3 img {
+    height: 400px;
+    width: 300px;
+    margin: 40px;
+}
+
+.footer {
+   
+    background-image: url(../image/34.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 0.7;
+}
+.footer h5{
+    padding: 10px;
+}
+.foot {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.foot6{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
+.foot7 a{
+    margin: 25px;
+    color: white;
+}
+.footer h5 {
+    margin-left: 25px;
+}
